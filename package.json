@@ -1,0 +1,7 @@
+{
+  "name": "thlane-navgater",
+  "packageManager": "yarn@3.5.0",
+  "dependencies": {
+    "@microsoft/rush": "^5.110.1"
+  }
+}
