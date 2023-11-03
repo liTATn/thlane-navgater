@@ -1,0 +1,25 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "redhat.vscode-yaml",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-complete-tag",
+    "formulahendry.auto-rename-tag",
+    "aaron-bond.better-comments",
+    "wmaurer.change-case",
+    "streetsidesoftware.code-spell-checker",
+    "dbaeumer.vscode-eslint",
+    "github.vscode-github-actions",
+    "github.vscode-pull-request-github",
+    "spywhere.guides",
+    "bierner.folder-source-actions",
+    "selfrefactor.order-props",
+    "dominicvonk.parameter-hints",
+    "christian-kohler.path-intellisense",
+    "qcz.text-power-tools",
+    "britesnow.vscode-toggle-quotes",
+    "mike-co.import-sorter",
+    "arcanis.vscode-zipfs",
+    "ritwickdey.liveserver"
+  ]
+}
